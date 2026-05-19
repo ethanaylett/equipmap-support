@@ -1,0 +1,1 @@
+# equipmap-support
